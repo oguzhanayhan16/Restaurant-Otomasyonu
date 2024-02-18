@@ -1,0 +1,132 @@
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant Otomasyon.csproj.AssemblyReference.cache
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant Otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmGiris.resources
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.Properties.Resources.resources
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant Otomasyon.csproj.GenerateResource.cache
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Restaurant Otomasyon.exe.config
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Restaurant Otomasyon.exe
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Restaurant Otomasyon.pdb
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant Otomasyon.exe
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant Otomasyon.pdb
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmMasalar.resources
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmMenu.resources
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmSiparis.resources
+C:\Users\oziay\OneDrive\Masaüstü\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmBill.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Restaurant Otomasyon.exe.config
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Restaurant Otomasyon.exe
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Restaurant Otomasyon.pdb
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant Otomasyon.csproj.AssemblyReference.cache
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmBill.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmGiris.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmMasalar.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmMenu.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmSiparis.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.Properties.Resources.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant Otomasyon.csproj.GenerateResource.cache
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant Otomasyon.exe
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant Otomasyon.pdb
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmMusteriAra.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.MusteriEkleme.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmSiparisKontrol.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmAyarlar.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmMutfak.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\EnvDTE.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\stdole.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmKasaIslemleri.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant Otomasyon.csproj.CopyComplete
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmRapor.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmRezervasyon.resources
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\bin\Debug\EnvDTE.xml
+C:\Users\Win10\OneDrive - klu.edu.tr\Masaüstü\gidecek\C#\Restaurant Otomasyon\Restaurant Otomasyon\obj\Debug\Restaurant_Otomasyon.frmRezervasyonKontrol.resources
